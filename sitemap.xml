@@ -109,6 +109,9 @@
     <loc>https://rjdemetra.github.io/rjd3toolkit/reference/jd3_utilities.html</loc>
   </url>
   <url>
+    <loc>https://rjdemetra.github.io/rjd3toolkit/reference/likelihood.html</loc>
+  </url>
+  <url>
     <loc>https://rjdemetra.github.io/rjd3toolkit/reference/ljungbox.html</loc>
   </url>
   <url>
@@ -266,6 +269,9 @@
   </url>
   <url>
     <loc>https://rjdemetra.github.io/rjd3toolkit/reference/ts_interpolate.html</loc>
+  </url>
+  <url>
+    <loc>https://rjdemetra.github.io/rjd3toolkit/reference/tsdata_of.html</loc>
   </url>
   <url>
     <loc>https://rjdemetra.github.io/rjd3toolkit/reference/tsmoniker.html</loc>
